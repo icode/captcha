@@ -1,0 +1,7 @@
+name: capatcha
+version: 0.1.0
+author: icode
+description: generate capatcha library
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
