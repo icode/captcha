@@ -4,7 +4,7 @@
 
 ###Ubuntu 安装所需库：
 
-    sudo apt-get install -y graphicsmagick
+    sudo apt-get install -y graphicsmagick imagemagick
 
 ###windows 下载对应版本:
 
