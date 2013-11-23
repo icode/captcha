@@ -32,7 +32,7 @@ class Capatcha {
 
   static final Random random = new Random();
 
-  static Future<Capatcha> generate({TextGenerator textGenerator, CapatchaGenerated generated, String fileOut, int width:230, int height:50, int offset:35, int quality:50, int fontSize:57, bool removeFile:true}) {
+  static Future<Capatcha> generate({TextGenerator textGenerator, CapatchaGenerated generated, String fileOut, int width:230, int height:60, int offset:35, int quality:50, int fontSize:57, bool removeFile:true}) {
     var completer = new Completer();
     var str_num = 6, r_num = charDic.length, text = '';
     if (textGenerator == null) {
