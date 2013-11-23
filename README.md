@@ -18,7 +18,7 @@
     main() {
       Capatcha.generate(generated:(c) {
         print(c.text);
-        //print(c.file.readAsBytes()); // 读取文件流
+        //print(c.file.readAsBytesSync()); // 读取文件流
       });
     }
 
