@@ -26,7 +26,7 @@
         ['OS=="win"', {
           'msvs_settings': {
             'VCLinkerTool': {
-              'AdditionalDependencies': [ 'dart.lib' ],
+              'AdditionalDependencies': [ 'include/dart.lib', 'user32.lib', 'gdi32.lib', 'shell32.lib' ],
               'AdditionalLibraryDirectories': [ '<(PRODUCT_DIR)' ],
             },
           },
