@@ -2,6 +2,10 @@
 
 ##0.1.2
 
+* change capatcha default height
+
+###0.1.2
+
 * add windows support
 
 ###0.1.1
