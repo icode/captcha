@@ -2,7 +2,7 @@
 
 ##0.1.2
 
-* change capatcha default height
+* change captcha default height
 
 ###0.1.2
 
@@ -14,4 +14,4 @@
 
 ###0.1.0
 
-* generate capatcha with c lang
+* generate captcha with c lang

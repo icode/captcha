@@ -13,7 +13,7 @@ using namespace cimg_library;
 Dart_NativeFunction ResolveName(Dart_Handle name, int argc);
 
 //Called when the extension is loaded.
-DART_EXPORT Dart_Handle capatcha_Init(Dart_Handle parent_library) {
+DART_EXPORT Dart_Handle captcha_Init(Dart_Handle parent_library) {
 	if (Dart_IsError(parent_library)) {
 		return parent_library;
 	}

@@ -1,7 +1,7 @@
-import 'package:capatcha/capatcha.dart';
+import 'package:captcha/captcha.dart';
 
 main() {
-  Capatcha.generate(generated:(c) {
+  Captcha.generate(generated:(c) {
     //print(c.file.readAsBytesSync());
     print(c.text);
   });

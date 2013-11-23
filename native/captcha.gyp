@@ -8,7 +8,7 @@
   ],
   'targets': [
     {
-      'target_name': 'capatcha',
+      'target_name': 'captcha',
       'type': 'shared_library',
       'dependencies': [
         
@@ -17,7 +17,7 @@
         'include',
       ],
       'sources': [
-        'capatcha.cc',
+        'captcha.cc',
       ],
       'defines': [
         'DART_SHARED_LIB',

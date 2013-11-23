@@ -14,9 +14,9 @@
 
 ##使用
 
-    import 'package:capatcha/capatcha.dart';
+    import 'package:captcha/captcha.dart';
     main() {
-      Capatcha.generate(generated:(c) {
+      Captcha.generate(generated:(c) {
         print(c.text);
         //print(c.file.readAsBytesSync()); // 读取文件流
       });
