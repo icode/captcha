@@ -1,13 +1,17 @@
 #Changelog
 
-##0.1.5
+##0.1.6
+
+* add mac os x support
+
+###0.1.5
 
 * fix file sync bug
 * change captcha offset
 
 ###0.1.4
 
-* change readme.md install wiki 
+* change readme.md install wiki
 
 ###0.1.3
 
