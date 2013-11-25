@@ -1,6 +1,10 @@
 #Changelog
 
-##0.1.6
+##0.1.7
+
+* change default offset
+
+###0.1.6
 
 * add mac os x support
 
