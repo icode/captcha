@@ -10,7 +10,13 @@
 
     ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/
 
-*windows下jpeg格式会有一个无效参数的提示，不知原因
+* windows下jpeg格式会有一个无效参数的提示，不知原因
+
+###Mac OS X
+
+    brew install GraphicsMagick imagemagick
+
+* brew 请自行安装
 
 ##使用
 
