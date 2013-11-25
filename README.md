@@ -15,6 +15,8 @@
 ###Mac OS X
 
     brew install GraphicsMagick imagemagick
+    sudo ln -s `which gm` /usr/bin/gm
+    sudo ln -s `which convert` /usr/bin/convert
 
 * brew 请自行安装
 
